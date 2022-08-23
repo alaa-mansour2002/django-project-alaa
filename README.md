@@ -1,1 +1,1 @@
-# django-project-alaa
+# django-project-alaa-restaurant
